@@ -13,5 +13,9 @@ public class GitEven {
         }
         System.out.println("Total number of prime numbers in the array:  "+count);
         System.out.println("Testing a new branch");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");`clear
+
     }
 }
